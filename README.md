@@ -1,6 +1,6 @@
 # Task Scheduler
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/khuyentran1401/Task-scheduler-problem/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/datatalking/Task-scheduler-problem/master)
 
 Creating to-do lists is easy. Creating truly effective to-do lists, and managing those tasks correctly? If you're anything like me - not so much. This repository reframes task management as a classic optimization problem that can be solved mathematically, incorporating the principles behind the Eisenhower Decision Matrix.
 
