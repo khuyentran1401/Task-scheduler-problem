@@ -1,7 +1,7 @@
 cycler==0.10.0
 kiwisolver==1.2.0
 matplotlib==3.2.2
-numpy==1.19.0
+numpy==1.22.0
 pandas==1.0.5
 PuLP==1.6.8
 pyparsing==2.4.7
@@ -12,7 +12,7 @@ xlrd==1.2.0
 cycler==0.10.0
 kiwisolver==1.2.0
 matplotlib==3.2.2
-numpy==1.19.0
+numpy==1.22.0
 pandas==1.0.5
 PuLP==2.4
 pyparsing==2.4.7
